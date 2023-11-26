@@ -32,6 +32,10 @@ header {
 
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
 
 /* Main content */
 main {
